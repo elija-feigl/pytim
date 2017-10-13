@@ -17,7 +17,7 @@ install:
   - activate test-environment
   - pip install coverage
   - pip install codecov
-  - pip intall pylama
+  - pip install pylama
   - pip install pytest-cov
   - pip install matplotlib
   - pip install cython 
